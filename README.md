@@ -13,4 +13,4 @@ This project aims to predict Myers-Briggs Type Indicator (MBTI) personality type
 5) Testing and Evaluation: Conducted rigorous testing and evaluation, achieving a high accuracy of 75% on unseen data which is quite good for basic Naive Bayes
 
 # Dataset Link
-https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
+https://www.kaggle.com/datasets/datasnaek/mbti-type
