@@ -11,3 +11,6 @@ This project aims to predict Myers-Briggs Type Indicator (MBTI) personality type
 3) Classifier Training: Trained a Naive Bayes classifier for text classfication using NLTK's NaiveBayesClassifier.
 4) Feature Representation: Implemented Bag of Words model for efficient feature representation.
 5) Testing and Evaluation: Conducted rigorous testing and evaluation, achieving a high accuracy of 75% on unseen data which is quite good for basic Naive Bayes
+
+# Dataset Link
+https://www.kaggle.com/datasets/zeyadkhalid/mbti-personality-types-500-dataset
