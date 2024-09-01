@@ -1,4 +1,4 @@
-# MTBI-Personality-Predictor
+# MBTI-Personality-Predictor
 
 Predicting Personality Types based on Social Media Posts
 
